@@ -1,0 +1,1 @@
+C:\repo_unity\Map UI\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
